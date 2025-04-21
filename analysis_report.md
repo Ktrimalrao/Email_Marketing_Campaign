@@ -110,5 +110,3 @@ Top 5 Performing Countries:
 5. Establish regular performance review cycles
 
 ---
-*Report generated on: [Current Date]*
-*Analysis based on: [Data Time Period]* 
