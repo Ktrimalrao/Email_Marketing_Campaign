@@ -162,4 +162,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any queries or suggestions, please contact:
 - Email: ktrimalrao16@gmail.com
 - LinkedIn: https://www.linkedin.com/in/k-trimal-rao-397924253/
-- GitHub: https://github.com/Ktrimalrao "# Email_Marketing_Campaign" 
+- GitHub: https://github.com/Ktrimalrao 
