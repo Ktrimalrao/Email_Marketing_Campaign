@@ -140,5 +140,3 @@ Version    Type         Emails    CTR
 3. ✨ Personalized emails perform 2x better
 4. 📝 Long-form content works better with personalization
 5. 🌍 Geographic targeting shows significant impact
-
-*Generated on: [Current Date]* 
